@@ -16,7 +16,8 @@
  ✅ Deletar todas as tarefas de uma vez  
  
  ## 📸 Captura de Tela
- _![image](https://github.com/user-attachments/assets/c3c914d8-cefe-4035-ac61-4e118e1a7837)
+ ![image](https://github.com/user-attachments/assets/be818b4c-3313-49d2-9de4-2dbc2e2ef8c5)
+
  
  ✨ Aprendizados
  Neste projeto, aprendi a utilizar o useState para gerenciar estados no React e a trabalhar com eventos de formulário. Também vi na prática como manipular listas e atualizar a interface de forma dinâmica.
