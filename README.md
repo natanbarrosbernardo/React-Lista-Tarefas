@@ -1,12 +1,27 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# React-Lista-de-tarefas
+ # 📝 Todo List - Meu Primeiro Projeto em React
+ 
+ Este é o meu primeiro projeto utilizando **React.js**! 🎉  
+ Trata-se de uma **Lista de Tarefas (To-Do List)** simples, onde é possível **adicionar, marcar como concluído e excluir tarefas**.
+ 
+ ## 🚀 Tecnologias Utilizadas
+ - **React.js** com Hooks (`useState`)
+ - **CSS** para estilização
+ - **JSX** para estruturação do layout
+ 
+ ## 🛠️ Funcionalidades
+ ✅ Adicionar tarefas à lista  
+ ✅ Marcar tarefas como concluídas ao clicar nelas  
+ ✅ Remover uma tarefa individualmente  
+ ✅ Deletar todas as tarefas de uma vez  
+ 
+ ## 📸 Captura de Tela
+ _![image](https://github.com/user-attachments/assets/c3c914d8-cefe-4035-ac61-4e118e1a7837)
+ 
+ ✨ Aprendizados
+ Neste projeto, aprendi a utilizar o useState para gerenciar estados no React e a trabalhar com eventos de formulário. Também vi na prática como manipular listas e atualizar a interface de forma dinâmica.
+ 
+ 🔗 Melhorias Futuras
+  Adicionar armazenamento local para manter as tarefas salvas
+  Criar uma interface mais estilizada
+  Implementar filtros para tarefas concluídas e pendentes
